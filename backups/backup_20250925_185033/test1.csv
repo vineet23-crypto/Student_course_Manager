@@ -1,0 +1,3 @@
+id,fullName,email,phone,regNo,status
+S001,John Doe,john@uni.edu,123-4567,REG001,ACTIVE
+S002,Jane Smith,jane@uni.edu,123-4568,REG002,ACTIVE
